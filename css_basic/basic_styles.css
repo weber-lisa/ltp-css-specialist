@@ -1,0 +1,15 @@
+h1 {
+    font-family: Georgia;
+    font-variant: small-caps;
+    color: dodgerblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+ul {
+    font-family: Helvetica;
+    color:firebrick;
+}
